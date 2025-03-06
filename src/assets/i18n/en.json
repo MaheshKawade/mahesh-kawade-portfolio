@@ -1,0 +1,98 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "mahesh_kawade.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>1.5 years of experience</span> developing systems, interfaces, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>javascript</span>, applying good practices and development standards.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "In <span class='underline'>1.5 years of experience</span> I have covered many roles: <span class='underline'></span>, <span class='underline'>Frontend Developer</span>, <span class='underline'>Backend Developer</span>, and <span class='underline'> I love contributing my knowledge to create new things that help solve problems.",
+    "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
+    "I also program things for my personal use, whether for hobby or utility.",
+    "Some of the technologies I have trained and worked with include:"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Koktail",
+      "Title": "Fullstack Developer",
+      "Date": "NOV 2023",
+      "Description": [
+        "Currently working with Koktail Soft Pvt. Ltd. Pune as a Angular Developer.",
+        "Experienced team player with excellent communication and interpersonal skills, capable of working independently under pressure. ",
+        "Proficient in end-to-end product development, including client-side requirement gathering and infrastructure/ecosystem setup.",
+        "Well-versed in Agile methodology and scrum practices. Skilled in UI development and integration.",
+        "Quick learner with the ability to grasp new technologies, ideas, and concepts, and capable of motivating teams to meet tight deadlines.",
+        "Experience across various phases of SDLC, including Requirements, Analysis, Design, Development, Implementation, and Testing."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "HR CONNECT",
+    "Description": "HR CONNECT revolutionizes HR management with a centralized platform for automating tasks, tracking employee data, managing recruitment, conducting evaluations, and improving communication. Built with <span class='underline'>Angular</span> and <span class='underline'>Java</span>, it Technologies <span class='underline'>Angular</span>, <span class='underline'>Java</span>, <span class='underline'>JavaScript</span>, and more.",
+      "imgs": [
+        "assets/images/gisselle/hr.png",
+        "assets/images/gisselle/hr2.png",
+        "assets/images/gisselle/hr.png"
+
+      ],
+      "Technologies": ["Java","javascript", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "LAGNAKARYA",
+      "Description": "Lagnakarya Vivahsanstha facilitates Marathi matrimony connections with features for match searching, customization, and community engagement. made with <span class='underline'>Angular</span> and <span class='underline'>javascript</span>The <span class='underline'>Rx.js</span> library is applied.",
+      "imgs": [
+        "assets/images/proyex2/lgn1.png",
+        "assets/images/proyex2/lgn2.png"
+      ],
+      "Technologies": ["javascript", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "KusumVatika",
+      "Description": "Application for tracking fuel supply requests for aircraft. It has an <span class='underline'>email module</span>, <span class='underline'>real-time notifications</span>, <span class='underline'>CSV file handling for data import</span>, <span class='underline'>price quotes</span>. Developed in <span class='underline'>Angular</span> and <span class='underline'>javascript</span>.",
+      "imgs": [
+        "assets/images/vasaviation/ks1.png"
+      ],
+      "Technologies": ["javascript", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "GlobalJobs",
+      "Description": "E-learning platform developed with WordPress. Fully customized design, with plugins developed from scratch. It has a customized payment module, virtual classroom, course tracking dashboard.",
+      "imgs": [
+        "assets/images/globaljobs/capture1.png",
+        "assets/images/globaljobs/capture2.png",
+        "assets/images/globaljobs/capture3.png",
+        "assets/images/globaljobs/capture4.png",
+        "assets/images/globaljobs/capture5.png",
+        "assets/images/globaljobs/capture6.png"
+      ],
+      "Technologies": ["WordPress", "WordPress Codex", "PHP", "MySQL"]
+    },
+    {
+      "Title": "GlobalJobs",
+      "Description": "E-commerce platform for technology products. Developed with WordPress and implementing a shipping system for products. It has sales reporting through customized programming.",
+      "imgs": [
+        "assets/images/mbelectronics/capture0.png",
+        "assets/images/mbelectronics/capture1.png",
+        "assets/images/mbelectronics/capture2.png"
+      ],
+      "Technologies": ["WordPress", "Elementor", "Woocommerce", "WordPress Codex", "PHP", "MySQL"]
+    }
+  ],
+  
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}
