@@ -98,3 +98,27 @@ more projects
       "Technologies": ["Angular", "SASS", "GIT"]
     }
   ],**/
+
+{
+      "Title": "GlobalJobs",
+      "Description": "E-learning platform developed with WordPress. Fully customized design, with plugins developed from scratch. It has a customized payment module, virtual classroom, course tracking dashboard.",
+      "imgs": [
+        "assets/images/globaljobs/capture1.png",
+        "assets/images/globaljobs/capture2.png",
+        "assets/images/globaljobs/capture3.png",
+        "assets/images/globaljobs/capture4.png",
+        "assets/images/globaljobs/capture5.png",
+        "assets/images/globaljobs/capture6.png"
+      ],
+      "Technologies": ["WordPress", "WordPress Codex", "PHP", "MySQL"]
+    },
+    {
+      "Title": "GlobalJobs",
+      "Description": "E-commerce platform for technology products. Developed with WordPress and implementing a shipping system for products. It has sales reporting through customized programming.",
+      "imgs": [
+        "assets/images/mbelectronics/capture0.png",
+        "assets/images/mbelectronics/capture1.png",
+        "assets/images/mbelectronics/capture2.png"
+      ],
+      "Technologies": ["WordPress", "Elementor", "Woocommerce", "WordPress Codex", "PHP", "MySQL"]
+    }

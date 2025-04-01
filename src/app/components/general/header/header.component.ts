@@ -60,13 +60,10 @@ export class HeaderComponent implements OnInit {
     this.responsiveMenuVisible=false;
   }
 
-  openResume(): void {
-    const resumeUrl = '../../../assests/mahesh_kawade.pdf'; // Update with the actual path to your resume
-    window.open(resumeUrl, '_blank');
-}
-
-  
-  
+  openResume() {
+    const resumeUrl = '../../../assets/mahesh_kawade.pdf'; // Path to your PDF file
+    window.open(resumeUrl, '_blank'); // Opens in a new tab
+  }
 
   @HostListener('window:scroll', ['getScrollPosition($event)'])
     getScrollPosition(event) {
